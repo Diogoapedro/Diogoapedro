@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img align="right" height="350" src="https://giffiles.alphacoders.com/171/171275.gif"  />
+<img align="right" height="300" src="https://giffiles.alphacoders.com/171/171275.gif"  />
 
 ###
 
@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Diogoapedro/Diogoapedro/output/snake.svg" alt="Snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/Diogoapedro/Diogoapedro/output/snake.svg" alt="Snake animation" />
 
 ###
 
