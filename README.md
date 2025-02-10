@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://giffiles.alphacoders.com/171/171275.gif"  />
+<img align="right" height="250" src="https://giffiles.alphacoders.com/171/171275.gif"  />
 
 ###
 
