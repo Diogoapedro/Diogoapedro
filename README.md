@@ -48,16 +48,32 @@
 
 # Stats and Socials:
 
+<div align="center">
+<a href="https://github.com/Diogoapedro" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/diogo-pedro-38ab541a7/?locale=en_US" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/14902414/diogo-pedro" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>   
+
 <br clear="both">
 
-<img align="right" height="250" src="https://giffiles.alphacoders.com/171/171275.gif"  />
+<div class="container">
+  
 
-###
+  <div class="stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Diogoapedro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="174" alt="stats graph" /> <br>
+    <img src="https://streak-stats.demolab.com?user=Diogoapedro&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diogoapedro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="174" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Diogoapedro&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img class="gif" src="https://giffiles.alphacoders.com/171/171275.gif" />
 </div>
+
+
 
 ###
 
@@ -65,18 +81,33 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/Diogoapedro/Diogoapedro/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/diogo-pedro-38ab541a7/?locale=en_US" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="diogoapedro02@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/14902414/diogo-pedro" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
+<style>
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; /* Center vertically when side-by-side */
+    justify-content: center; /* Center when stacked */
+    gap: 20px;
+  }
 
-###
+  .gif {
+    height: 250px;
+  }
+
+  .stats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  @media (max-width: 1000px) { /* Adjust breakpoint as needed */
+    .container {
+      flex-direction: column;
+    }
+
+    .gif {
+      order: -1; /* Moves GIF to the top */
+    }
+  }
+</style>
