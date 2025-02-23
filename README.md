@@ -49,7 +49,7 @@
 # Stats and Socials:
 
 <div align="center">
-<a href="https://github.com/Diogoapedro" target="_blank">
+<a href="https://diogoapedro02@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/diogo-pedro-38ab541a7/?locale=en_US" target="_blank">
@@ -63,14 +63,15 @@
 <br clear="both">
 
 <div class="container">
-  
-
+  <div>
+    <img align="right" class="gif" height="250px" src="https://giffiles.alphacoders.com/171/171275.gif" />
+  </div>
   <div class="stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Diogoapedro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="174" alt="stats graph" /> <br>
     <img src="https://streak-stats.demolab.com?user=Diogoapedro&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
   </div>
 
-  <img class="gif" src="https://giffiles.alphacoders.com/171/171275.gif" />
+  
 </div>
 
 
@@ -80,34 +81,3 @@
 <br clear="both">
 
 <img width="100%" src="https://raw.githubusercontent.com/Diogoapedro/Diogoapedro/output/snake.svg" alt="Snake animation" />
-
-
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center; /* Center vertically when side-by-side */
-    justify-content: center; /* Center when stacked */
-    gap: 20px;
-  }
-
-  .gif {
-    height: 250px;
-  }
-
-  .stats {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  @media (max-width: 1000px) { /* Adjust breakpoint as needed */
-    .container {
-      flex-direction: column;
-    }
-
-    .gif {
-      order: -1; /* Moves GIF to the top */
-    }
-  }
-</style>
