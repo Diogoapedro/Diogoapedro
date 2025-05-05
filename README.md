@@ -6,7 +6,8 @@
 🖥 Passionate about computer networking and cybersecurity <br>
 ⌛️ Fun fact about me is that I'm very interested in speedcubing. <br>
 💡 Thrive on learning new things and always looking for new challenges <br>
-💻 Currently the President of the Fiscal Council at [APS - Associação Portuguesa de Speedcubing](https://speedcubingportugal.pt/home) and also maintain its website <br><br>
+💻 Currently the President of the Fiscal Council at [APS - Associação Portuguesa de Speedcubing](https://speedcubingportugal.pt/home) and also maintain its website <br>
+🌐 Find more about me in my Portfolio [Diogo Pedro - Portfolio](https://diogoapedro.github.io/portfolio/)<br><br>
 
 # Tech stack:
 
