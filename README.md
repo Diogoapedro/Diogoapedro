@@ -49,7 +49,7 @@
 # Stats and Socials:
 
 <div align="center">
-<a href="https://diogoapedro02@gmail.com" target="_blank">
+<a href="mailto:diogoapedro02@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/diogo-pedro-38ab541a7/?locale=en_US" target="_blank">
